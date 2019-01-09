@@ -1,0 +1,16 @@
+	This animation shows the effect of the resistance and the voltage on the current
+	of an electric circuit.
+
+	Adjust the value of the resistance and the voltage with the sliders, 
+	their values are under their respective sliders.
+	The value of the current is under under the circuit.
+
+	The dots represent the electrons in the circuit. 
+	The amount of dots represents the value of the current.
+ 
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu. 

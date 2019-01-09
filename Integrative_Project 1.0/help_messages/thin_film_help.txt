@@ -1,0 +1,14 @@
+	This animation shows the behaviour of a ray of light when going through a thin films.
+	The table shows the wavelengths that are enhanced and destroyed through this process.
+
+	Input the material and the thickness of the thin films.
+	The minimum thickness is 100 nm and the maximum is 1000 nm.
+
+	There is 4 different materials, each with different refractive index n, 
+	indicated next to the material.
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu.

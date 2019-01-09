@@ -1,0 +1,16 @@
+	This animation shows the law of Conservation of Energy through the kinetic and potential 
+	energy of an object.
+
+	Input the mass in kg, the initial height in meters and the damping of the object.
+	The maximum mass is 50 kg and it must be positive.
+	The minimum mass is 0.01 kg.
+	The maximum initial height is 75 meters and must be positive.
+	The minimum initial height is 10 meters.
+
+	The damping is the amount of energy that is lost when the object bounces from the floor.
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu. 

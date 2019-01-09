@@ -1,0 +1,14 @@
+	This animation shows the behaviour of two charged particles and the electric force.
+
+	Input the charge of both particles.
+	The range for the charge is -25 to 25 micro Coulombs
+
+	The arrows represented the direction and magnitude of the electric force 
+	on both particles. 
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu. 
+ 

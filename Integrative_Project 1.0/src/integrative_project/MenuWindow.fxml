@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="integrative_project.MenuWindowController">
+   <children>
+      <ChoiceBox layoutX="31.0" layoutY="69.0" prefHeight="46.0" prefWidth="276.0" />
+      <Label alignment="CENTER" layoutX="26.0" layoutY="37.0" prefHeight="31.0" prefWidth="276.0" text="Mechanics">
+         <font>
+            <Font size="22.0" />
+         </font></Label>
+      <Label alignment="CENTER" layoutX="402.0" layoutY="283.0" prefHeight="31.0" prefWidth="276.0" text="Electricity and Magnetism">
+         <font>
+            <Font size="22.0" />
+         </font></Label>
+      <ChoiceBox layoutX="403.0" layoutY="314.0" prefHeight="46.0" prefWidth="276.0" />
+      <Label alignment="CENTER" layoutX="770.0" layoutY="513.0" prefHeight="31.0" prefWidth="276.0" text="Waves and Optics">
+         <font>
+            <Font size="22.0" />
+         </font></Label>
+      <ChoiceBox layoutX="770.0" layoutY="545.0" prefHeight="46.0" prefWidth="276.0" />
+      <ComboBox fx:id="mechanicsBox" layoutX="31.0" layoutY="69.0" prefHeight="46.0" prefWidth="276.0" />
+      <MenuBar layoutY="2.0" prefHeight="25.0" prefWidth="1080.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#exitButtonAction" text="Exit" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#FAQButtonAction" text="FAQ" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <ComboBox fx:id="electricityBox" layoutX="403.0" layoutY="314.0" prefHeight="46.0" prefWidth="276.0" />
+      <ComboBox fx:id="wavesBox" layoutX="770.0" layoutY="545.0" prefHeight="46.0" prefWidth="276.0" />
+      <Label layoutX="440.0" layoutY="69.0" prefHeight="128.0" prefWidth="602.0" text="Integrative Project 2018">
+         <font>
+            <Font size="55.0" />
+         </font>
+      </Label>
+      <Label layoutX="12.0" layoutY="646.0" prefHeight="60.0" prefWidth="141.0" text="Maxime Mahdavian" />
+      <Label layoutX="12.0" layoutY="689.0" text="Omar Merhi" />
+   </children>
+</AnchorPane>

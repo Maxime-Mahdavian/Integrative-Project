@@ -1,0 +1,13 @@
+	This animation shows the motion of a pendulum. 
+
+	Input the initial angle, starting from the middle, in degrees
+	and the length of the string in cm.
+	
+	The initial angle must be within -90 to 90 degrees
+	The maximum length for the string is 50 cm and must be positive. 
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu. 

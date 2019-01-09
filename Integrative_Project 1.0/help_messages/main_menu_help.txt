@@ -1,0 +1,7 @@
+	Every Choice box represents a Physics class in CEGEP.
+	There is two physics problem per classes.
+	Click on the problem you want to see.
+
+	Enjoy!
+
+	Made by: Maxime Mahdavian and Omar Merhi.

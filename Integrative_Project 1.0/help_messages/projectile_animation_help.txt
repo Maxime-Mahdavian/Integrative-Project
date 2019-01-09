@@ -1,0 +1,14 @@
+	This animation shows the path of a projectile
+
+
+	Input the initial velocity in m/s.
+	Maximum value is 50 m/s and the input value must always be positive.
+	Input the initial angle in degrees of the projectile.
+	Value must be within the first quadrant, meaning from 0 to 90 degrees.
+
+	Hit the Start button to start the animation.
+	Hit the Pause button to pause the animation.
+	Hit the Continue button to continue the animation after pausing.
+	Hit the Reset button to reset the animation after inputting new data.
+	Hit the Back button to go back to the main menu. 
+ 
